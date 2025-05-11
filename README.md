@@ -4,6 +4,7 @@
 
 A robust speech emotion recognition (SER) system that identifies emotions from audio samples using a hybrid deep learning approach combining CNN-LSTM architecture with HuBERT pre-trained speech representations.
 Overview
+
 This project implements an advanced speech emotion recognition system capable of identifying seven emotional categories (angry, disgust, fear, happy, neutral, sad, and surprise) from audio samples with 94% accuracy. The system leverages a novel hybrid architecture that combines traditional acoustic feature extraction with state-of-the-art self-supervised learning representations, enhanced by ensemble techniques.
 Key Features
 
